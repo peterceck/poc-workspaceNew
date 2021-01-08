@@ -15,6 +15,8 @@
       *       MONTHLY PAYMENT
       *
       *    (C) 2019 IBM
+      * Peter's comment - hey there
+      *
        ENVIRONMENT DIVISION.
        CONFIGURATION SECTION.
        SOURCE-COMPUTER. FLEX-ES.
