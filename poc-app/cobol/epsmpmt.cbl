@@ -16,7 +16,7 @@
       *
       *    (C) 2019 IBM
       * Peter's comment - hey there
-      *
+      * change two
        ENVIRONMENT DIVISION.
        CONFIGURATION SECTION.
        SOURCE-COMPUTER. FLEX-ES.
@@ -92,6 +92,7 @@
            ELSE
               PERFORM A999-RETURN-ERROR-TEXT
            END-IF.
+           DISPLAY 'HELLO'.
            GOBACK
            .
       *
