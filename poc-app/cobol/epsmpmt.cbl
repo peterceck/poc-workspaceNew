@@ -17,6 +17,7 @@
       *    (C) 2019 IBM
       * Peter's comment - hey there
       * change two
+      * change three
        ENVIRONMENT DIVISION.
        CONFIGURATION SECTION.
        SOURCE-COMPUTER. FLEX-ES.
